@@ -1,0 +1,292 @@
+[center][img]http://i.imgur.com/aTK3KYV.png[/img]
+
+[size=10pt][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Expanse[/url] est une plateforme cryptographique décentralisée d'informations, d'applications, et de contrats. Elle est l'une des premières du genre à être équitablement distribuée, démocratiquement contrôlée, et gérée par la communauté. Via l'utilisation de contrats intelligents et d'une technologie de blockchain décentralisée, elle n'est pas régit par n'importe quel individu ou groupe, mais par les utilisateurs d'Expanse eux mêmes. Le projet est organisé, géré, et exploité via une structure décentralisée démultipliant le rayonnement direct de la plateforme et de son avenir auprès de ceux qui comptent le plus : sa communauté. Les nouvelles fonctionnalités, l'intégration, et les modifications profondes de la plateforme et de la structure d'Expanse peuvent être nominées, votées, et implémentées selon l'opinion commune.[/size]
+[/center]
+
+[center]
+[table]
+[tr]
+[td][/td]
+	[td][center][img]http://i.imgur.com/Xyveaf3.png[/img][/center][/td]
+	[td][list]
+[li]Algorithme: Dagger[/li]
+[li]Récompense de block: 8[/li]
+[li]Limite de Gaz: 31415926[/li]
+[li]Cible de block: 60 secondes[/li]
+[li]Port d'écoute: 42786[/li]
+[li]Port RPC: 9656[/li]
+[li]Réserve: 11 millions (gérés par la communauté)[/li]
+[li][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Whitepaper[/url][/li]
+[/list][/td]
+[/tr]
+[tr][td][/td]
+[td]
+
+
+[center][b][u]Détails du lancement[/u][/b][/center]
+
+Nous hébergerons un Lancement Publique Testnet le 10/09/2015.
+L'objectif de ce test est de permettre aux utilisateurs, 
+de manière confortable, d'installer, configurer, et tester le 
+logiciel, préparer leur mineurs, et se familiariser avec Expanse. 
+Nous voulons que tout le monde ait accès à un démarrage équitable 
+et soit en mesure de commencer à miner expanse dès l'instant où 
+il sera lancé. Ceci est seulement un test et les jetons minés 
+lors du testnet ne seront pas transférés lors du lancement principal. 
+
+Le lancement principal aura lieu le 14/09/2015 à 12:00am (UTC).
+Il s'agira de la vraie blockchain définitive et du vrai lancement 
+complet de expanse.[/td]
+[td][center][img]http://i.imgur.com/9bT0NXA.png[/img][/center][/td]
+[/tr]
+[tr][td][/td]
+[td][center][img]http://i.imgur.com/IIAplvH.png[/img][/center][/td]
+[td]
+Le Projet Expanse est géré par une structure décentralisée opérant 
+sur le Blockchain Expanse. Cette entité décentralisée est responsable 
+des décisions significatives :  décider sur quelles nouveautés ou 
+mises-à-jour doivent se concentrer les développeurs, gérer les fonds 
+de réserve ou actifs de fonctionnement du projet, et bien plus. 
+Elle se décompose en trois divisions, chacune ayant un pouvoir de 
+vote égal sur les décisions de management de Expanse.
+[/td]
+[/tr]
+[tr][td][/td]
+[td]
+[b]Le Noyau du Développement Expanse[/b]
+Le noyau du développement Expanse se compose 
+des fondateurs du projet et des développeurs 
+primordiaux. Il s'agit de personnes talentueuses 
+pleines de connaissances diverses et une 
+expérience technique de la technologie blockchain. 
+
+[b]Le Collectif communautaire Expanse[/b]
+Le collectif communautaire expanse est l'âme du projet: 
+les utilisateurs. Il est constitué des détenteurs 
+actifs de jetons expanse.  Tout compte expanse 
+détenant plus de 1 EXP possède une voix de vote.
+
+[b]Le Conseil Consultatif Expanse[/b]
+Un conseil tiers composé d'individus élus à la fois 
+par le Noyau du Développement et le Collectif de la 
+Communauté. Ils devraient être des membres de confiance 
+bien connus au sein de la communauté bitcoin/cryptodevises, 
+avec une réputation en règle et depuis longtemps établie. 
+Idéalement il s'agirait de personnes avec une forte 
+expérience technique et compréhension de la technologie 
+blockchain, capables de voter en étant bien informés 
+sur les questions financières et techniques. [/td]
+[td][img]http://i.imgur.com/nd7nACP.png[/img]
+[/td]
+[/tr]
+[/table]
+[/center]
+
+[center][b][u][size=12pt]Le Noyau de l'Equipe Expanse[/size][/u][/b]
+L'équipe Expanse se compose de développeurs professionnels et personnalités du milieu, qualifiés, expérimentés, avec un historique de contributions de longues dates à plusieurs projets leaders, sociétés, et communautés, en lien avec les cryptodevises et la technologie blockchain.
+
+[img]http://i.imgur.com/GuxJ59R.png[/img][/center]
+
+[center][b][u]Communauté & Social[/u][/b]
+Expanse est un projet basé sur une communauté, donc la meilleure façon de participer est d'interagir! 
+Rejoignez les autres utilisateurs et les développeurs expanse via différentes plateformes:
+
+[table][tr]
+[td][center][u]Reddit[/u]
+[img]http://i.imgur.com/F8lrV6r.png[/img]
+[/center][/td]
+[td][center][u]Facebook[/u]
+[img]http://i.imgur.com/hT9gqRe.png[/img]
+[/center][/td]
+[td][center][u]Twitter[/u]
+[img]http://i.imgur.com/2DjHrEc.png[/img]
+[/center][/td]
+[/tr][tr][td][url=http://www.reddit.com/r/expanseofficial]/r/expanseofficial[/url][/td][td]             [url=http://www.facebook.com/groups/expanseofficial]groups/expanseofficial[/url]         [/td][td][url=http://www.twitter.com/expanseofficial]twitter.com/expanseofficial[/url][/td][/tr]
+[/table]
+
+[table][tr][td][center][u]IRC[/u]
+Active daily conversation
+of the Expanse community.
+[img]http://i.imgur.com/Rq9FlNH.png[/img]
+#expanse on irc.freenode.net[/center]
+[/td][td]           [/td]
+[td][center][u]Slack[/u]
+The best place to interact with the
+Expanse Community is on our slack!
+[img]http://i.imgur.com/w4gUMZ8.png[/img]
+Visit http://slack.expanse.tech/ for an invite![/center]
+[/td][/tr][/table][/center]
+
+[center][img]http://i.imgur.com/991kdwC.png[/img][/center]
+
+Foire Aux Questions: Nous mettrons cette section régulièrement à jour avec les réponses aux questions les plus fréquemment posées ou avec les solutions aux problèmes les plus rencontrés. Cette FAQ est spécifique à ce fil Bitcointalk, donc n'hésitez pas à consulter le section FAQ sur le site web pour obtenir davantage de réponses aux questions courantes.
+
+[b]Q: Quelles différences existent entre Expanse et les projets similaires?[/b]
+A: La différence majeure vient du fait que Expanse est un projet géré par une communauté. Les choix importants concernant le design, le fonctionnement, les voies de développement, les investissements, et bien d'autres choses, sont faits par les utilisateurs. Expanse n'a pas d'ICO ou de Crowdsale, simplement une petite réserve managée par la communauté par le biais d'une Organisation Autonome Décentralisée (DAO) via des contrats intelligents ["smart contracts"]. Contrairement à d'autres projets, le futur de Expanse est choisit par ses contributeurs, mineurs, traders, et ceux qui veulent simplement participer et façonner le futur de manière juste et décentralisée.
+
+
+[b] Q: Quand pourrai-je télécharger le logiciel Expanse et lire davantage de documentations?[/b]
+A: Nous publierons continument des mises-à-jour de documentations avant et après le Public Testnet et le lancement majeur. Le logiciel sera disponible au téléchargement au lancement du Public Testnet et mis à jour régulièrement.
+
+
+[b] Q: Quelle est la différence entre le Lancement du Testnet Public et le Lancement Majeur?[/b]
+A: Le lancement du Testnet Public permet à tout le monde d'installer, préparer, et tester les configurations de minage et du client logiciel avant le Lancement de Expanse. Cela permet un lancement plus juste et équitablement distribué pour tous ceux souhaitant être pleinement préparés à la participation lorsque le projet sera mis en ligne. Le Testnet n'est là que pour le test, peut être soumis à des resets occasionnels et tests de stress et mises en défaut, et ne doit pas être considéré comme version stable à long terme. Le Lancement Majeur est le véritable lancement de Expanse où les utilisateurs et mineurs peuvent échanger/miner de vrais jetons Expanse, créer et exécuter des contrats intelligents, et faire une utilisation complète de la plateforme et sa technologie.
+
+
+[b] Q: Serai-je en mesure de conserver mes jetons minés lors du lancement du Public Testnet?[/b]
+A: Les jetons minés lors du Testnet NE SERONT PAS transférables au réseau majeur Expanse. Ils pourraient persister sur le réseau testnet mais le Testnet n'a pour vocation que le test et sera supprimer par routine après plusieurs cycles de test. Ces jetons n'ont aucune autre valeur que celle exprimée lors de la phase de test. 
+
+
+[b] Q: Je suis enthousiaste concernant le projet mais n'ai pas de connaissances techniques. Comment puis-je aider?[/b]
+A: Vous pouvez miner Expanse ou en acheter un peu sur les plateformes d'échange quand EXP y sera disponible. Vous pouvez également parler du projet autour de vous, partager activement vos opinions et vos votes sur les décisions clés, et même suggérer de possibles changements que vous trouvez importants pour le projet. Expanse est un projet entièrement à votre écoute et très inclusif, construisant une forte communauté par l'équité et la combinaison de talents et de visions de ceux qui veulent en être.
+
+
+[b] Q: Je suis développeur, comment puis-je contribuer au projet Expanse?[/b]
+A: Le potentiel de Expanse est énorme, mais les applications de sa puissance manquent. Ce dont nous avons besoin le plus sont des développeurs de DApps et Contrats. De telles contributions sont rétribuées; l'organisation Expanse récompensera par bounties les développeurs DApps et Contrats. Pour ceux désireux de contribuer au projet officiel, nous sommes actuellement en train de rédiger et publierons bientôt des documents guides pour la contribution des développeurs. Vous pouvez également participer directement sur le channel #dev du Slack Expanse.
+
+
+[b] Q: Y-a-t-il un ICO?[/b]
+A: Non, il n'y a aucune forme d'ICO ["Initial Coin Offering"] ou de financement participatif ["Crowdfunding"].
+
+
+[b] Q: Quelle est cette réserve? Pourquoi en existe-t-il une?[/b]
+A: La réserve est un fond financier géré par la communauté Expanse. Ces fonds de réserve sont directement gérés par la DAO en utilisant les contrats intelligents qui tournent sur Expanse. Les fonds de l'organisation sont verrouillés dans un contrat et sont progressivement rendus disponibles à l'organisation de manière équitable dans le temps. 10% de la réserve communautaire (1.1m exp) seront lentement distribués au noyau de la fondation pour couvrir les frais de développement à long terme, et seulement 10% de cette réserve seront disponibles au lancement pour aider à financer le développement initial et les bounties, alors que le reste de la réserve (90%, 9.9m exp) sera progressivement utilisé via des contrats intelligents comme déterminé par l'organisation Expanse dans son ensemble.
+
+
+[b] Q: Comment peut-on s'assurer que la réserve ne sera pas larguée sur le marché?[/b]
+A: La grande majorité de la réserve est contrôlée directement par l'entité Organisation Expanse Décentralisée, et est verrouillée par des contrats intelligents. Toute utilisation des fonds de l'organisation nécessite un vote majoritaire entre la communauté, les développeurs, et le conseil consultatif. Il serait impossible de vendre sans un accord mutuel. De surcroit, les fonds sont déverrouillés à l'organisation de manière répartie dans le temps.
+
+
+[b][size=20pt]Mainnet Instructions[/size][/b]
+[b]Install deps and make gexp[/b]
+
+[code]apt-get install git binutils bison gcc make libgmp3-dev
+bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+gvm install go1.4
+gvm use go1.4 --default
+git clone -b develop http://www.github.com/expanse-project/go-expanse.git  
+cd go-expanse
+make gexp[/code]
+
+[b]From here you start the client with the genesis file[/b]
+
+[code]build/bin/gexp --genesis genesis.json[/code]
+
+[b]exitout then create your first account[/b]
+
+[code]build/bin/gexp account new[/code]
+
+[b]Then start it up with a bootnode[/b]
+
+[code]./gexp --bootnodes "enode://4055ec69e53df4bfecb95e3b65c28e4f2a1145a3bdc4d85d077b552248cf159951afd649f044783bebf48b902fbc0e96978c76236fd4ab3d5ef7d95d72b84ee5@[::]:42786" --rpc console 2>exp.log
+[/code]
+
+or from the console
+
+[code]admin.addPeer("enode://4055ec69e53df4bfecb95e3b65c28e4f2a1145a3bdc4d85d077b552248cf159951afd649f044783bebf48b902fbc0e96978c76236fd4ab3d5ef7d95d72b84ee5@[::]:42786")
+[/code]
+
+[b]Check and see if you are connected to any nodes[/b]
+
+[code]admin.peers
+[/code]
+
+You can also get your own node info for others to connect to by entering
+
+[code]admin.nodeInfo[/code]
+
+[b]turn on mining[/b]
+
+[code]miner.start()
+miner.stop()
+[/code]
+Once you mine a few blocks, check your balance like this
+
+[code]web3.fromWei(exp.getBalance(exp.coinbase))[/code]
+
+If you are having trouble finding nodes give it a second and then follow the guide below
+
+https://github.com/expanse-project/go-expanse/wiki/Connecting-to-the-network
+
+[B]Binaries[/b]
+https://github.com/expanse-org/gexp-builds
+https://github.com/expanse-project/go-expanse/releases/
+
+[b]Other Binaries[/b]
+http://www.expanse.tech/downloads/gexp-darwin-x64.tar.gz
+http://www.expanse.tech/downloads/gexp-linux-x86.tar.gz
+http://www.expanse.tech/downloads/gexp-linux-x64.tar.gz
+http://www.expanse.tech/downloads/gexp-android-arm-21.tar.gz
+http://www.expanse.tech/downloads/gexp-windows-x86.zip
+http://www.expanse.tech/downloads/gexp-windows-x64.zip
+http://www.expanse.tech/downloads/gexp-darwin-x86.tar.gz
+http://www.expanse.tech/downloads/expwallet-win.zip
+http://www.expanse.tech/downloads/expwallet-mac.zip
+
+Add peers from just in case..
+
+
+[code]
+admin.addPeer("enode://f944c6702a78a0cbcd6505b76daff069dad2e45ff88896c475da2bef47091c88e5b4042211233e397ad958be998003a2674151e60719c5fdeeff5f8cc2c231a1@74.196.59.103:42786");
+admin.addPeer("enode://261da6789b8720fc61a17c532022f9ac8d25c82680caeaf3f68f67e723deac190000847f276dfa9e4ac503b6d8c13bd77aae724b263479cafc8808ede0f1deb9@18.97.7.22:42786");
+admin.addPeer("enode://2444ddb2aa1c34d55f9b28a1e2b57f1d6c381250776574432381db6984996a2a05f560f0a751443d5a5df4c608a8dc6acc0bdb19bea5905edf643d2c9b44d159@85.217.235.15:63117");
+admin.addPeer("enode://f3223bf8ea731e569a27318f00f4cc3696ec7d45005604f2731efc21f95028d230671dfc907f44cbed3f7fa0033e1111ffd8f9db1286b3721641d77afd500ade@54.72.197.108:46741");
+admin.addPeer("enode://15a6ddec7c2e7fc67686557975b41c6308525a69c8ce56747d6ae9c7e9dc8910a4624443ffc127001f72f8f8fca4a67d04906e72d725d7b39dbff4454b8b2b28@68.197.12.14:42786");
+admin.addPeer("enode://25b8304b5a7977e5478057e5f60f3a7f0da32702f0e5d0174c84ab2a9fb270fb37ef73aba2c682d4283d617e073fdc61e082d7f277474ea64fde055e17d86814@71.62.31.72:49568");
+[/code]
+
+[url=https://bitcointalk.org/index.php?topic=1173722.msg12412842#msg12412842]For updating information click here[/url]
+
+[b]Official Genesis[/b]
+[code]
+{
+    "nonce": "0x214652414e4b4f21",
+    "timestamp": "0x0",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "extraData": "0x4672616e6b6f497346726565646f6d",
+    "gasLimit": "0x1388",
+    "difficulty": "0x40000000",
+    "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "coinbase": "0x93decab0cd745598860f782ac1e8f046cb99e898",
+    "alloc": {
+        "0xbb94f0ceb32257275b2a7a9c094c13e469b4563e": { "balance": "10000000000000000000000000" },
+        "0x15656715068ab0dbdf0ab00748a8a19e40f28192": { "balance": "1000000000000000000000000"},
+    "0xc075fa11f85bda3aaba67106226aaf086ac16f4e": { "balance": "100000000000000000000000"},
+    "0x93decab0cd745598860f782ac1e8f046cb99e898": { "balance": "10000000000000000000000"}
+    }
+}
+[/code]
+
+[b]Pools Software[/b]
+https://github.com/ocminer/ethcore-pool-mpos
+https://github.com/expanse-org/expanse-proxy
+
+[b]Pools[/b]
+https://exp.suprnova.cc/
+http://exp.maxminers.net/
+http://dwarfpool.com/exp
+http://pooleum.com/
+
+[b]Exchanges[/b]
+https://poloniex.com/exchange#btc_exp
+https://www.bittrex.com/Market/Index?MarketName=BTC-EXP
+https://bleutrade.com/exchange/EXP/BTC
+
+[b]Console Cheat Sheet[/b]
+[code]BlockHeight == exp.blockNumber
+nodeinfo == admin.nodeInfo
+peers == admin.peers
+addnode == admin.addPeer("enode://nodekey:ipaddress@port")
+send tx == exp.sendTransaction({from:exp.accounts[0], to:"0x…007", value: web3.toWei(1, "expanse")})
+getBalance == web3.fromWei(exp.getBalance(exp.coinbase), "expanse")
+Peercount == net.peerCount
+[/code]
+
+[b]Chain Stats[/b]
+How to join chainstats - https://bitcointalk.org/index.php?topic=1173722.msg12427609#msg12427609
+Stats - http://stats.expanse.tech/
+BlockExplorer - http://www.expanse.tech/explorer
+
+[b]Chat[/b]
+IRC - #expanse freenode
+SLACK - http://slack.expanse.tech/

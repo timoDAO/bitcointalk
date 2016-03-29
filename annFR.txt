@@ -1,4 +1,4 @@
-[center][img]http://i.imgur.com/aTK3KYV.png[/img]
+[center][img]http://s30.postimg.org/w27tqb3q9/EXPANSE_LOGO.png[/img]
 
 [size=10pt][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Expanse[/url] est une plateforme cryptographique décentralisée d'informations, d'applications, et de contrats. Elle est l'une des premières du genre à être équitablement distribuée, démocratiquement contrôlée, et gérée par la communauté. Via l'utilisation de contrats intelligents et d'une technologie de blockchain décentralisée, elle n'est pas régit par n'importe quel individu ou groupe, mais par les utilisateurs d'Expanse eux mêmes. Le projet est organisé, géré, et exploité via une structure décentralisée démultipliant le rayonnement direct de la plateforme et de son avenir auprès de ceux qui comptent le plus : sa communauté. Les nouvelles fonctionnalités, l'intégration, et les modifications profondes de la plateforme et de la structure d'Expanse peuvent être nominées, votées, et implémentées selon l'opinion commune.[/size]
 [/center]
@@ -101,7 +101,7 @@ Rejoignez les autres utilisateurs et les développeurs expanse via différentes 
 [td][center][u]Twitter[/u]
 [img]http://i.imgur.com/2DjHrEc.png[/img]
 [/center][/td]
-[/tr][tr][td][url=http://www.reddit.com/r/expanseofficial]/r/expanseofficial[/url][/td][td]             [url=http://www.facebook.com/groups/expanseofficial]groups/expanseofficial[/url]         [/td][td][url=http://www.twitter.com/expanseofficial]twitter.com/expanseofficial[/url][/td][/tr]
+[/tr][tr][td][url=http://www.reddit.com/r/expanseofficial]/r/expanseofficial[/url][/td][td]             [url=http://www.facebook.com/groups/expanseofficial]groups/expanseofficial[/url]         [/td][td][url=http://www.twitter.com/expanseofficial]twitter.com/expanseofficial[/url][/td][/tr]
 [/table]
 
 [table][tr][td][center][u]IRC[/u]
@@ -109,7 +109,7 @@ Active daily conversation
 of the Expanse community.
 [img]http://i.imgur.com/Rq9FlNH.png[/img]
 #expanse on irc.freenode.net[/center]
-[/td][td]           [/td]
+[/td][td]           [/td]
 [td][center][u]Slack[/u]
 The best place to interact with the
 Expanse Community is on our slack!
@@ -124,34 +124,26 @@ Foire Aux Questions: Nous mettrons cette section régulièrement à jour avec le
 [b]Q: Quelles différences existent entre Expanse et les projets similaires?[/b]
 A: La différence majeure vient du fait que Expanse est un projet géré par une communauté. Les choix importants concernant le design, le fonctionnement, les voies de développement, les investissements, et bien d'autres choses, sont faits par les utilisateurs. Expanse n'a pas d'ICO ou de Crowdsale, simplement une petite réserve managée par la communauté par le biais d'une Organisation Autonome Décentralisée (DAO) via des contrats intelligents ["smart contracts"]. Contrairement à d'autres projets, le futur de Expanse est choisit par ses contributeurs, mineurs, traders, et ceux qui veulent simplement participer et façonner le futur de manière juste et décentralisée.
 
-
 [b] Q: Quand pourrai-je télécharger le logiciel Expanse et lire davantage de documentations?[/b]
 A: Nous publierons continument des mises-à-jour de documentations avant et après le Public Testnet et le lancement majeur. Le logiciel sera disponible au téléchargement au lancement du Public Testnet et mis à jour régulièrement.
-
 
 [b] Q: Quelle est la différence entre le Lancement du Testnet Public et le Lancement Majeur?[/b]
 A: Le lancement du Testnet Public permet à tout le monde d'installer, préparer, et tester les configurations de minage et du client logiciel avant le Lancement de Expanse. Cela permet un lancement plus juste et équitablement distribué pour tous ceux souhaitant être pleinement préparés à la participation lorsque le projet sera mis en ligne. Le Testnet n'est là que pour le test, peut être soumis à des resets occasionnels et tests de stress et mises en défaut, et ne doit pas être considéré comme version stable à long terme. Le Lancement Majeur est le véritable lancement de Expanse où les utilisateurs et mineurs peuvent échanger/miner de vrais jetons Expanse, créer et exécuter des contrats intelligents, et faire une utilisation complète de la plateforme et sa technologie.
 
-
 [b] Q: Serai-je en mesure de conserver mes jetons minés lors du lancement du Public Testnet?[/b]
 A: Les jetons minés lors du Testnet NE SERONT PAS transférables au réseau majeur Expanse. Ils pourraient persister sur le réseau testnet mais le Testnet n'a pour vocation que le test et sera supprimer par routine après plusieurs cycles de test. Ces jetons n'ont aucune autre valeur que celle exprimée lors de la phase de test. 
-
 
 [b] Q: Je suis enthousiaste concernant le projet mais n'ai pas de connaissances techniques. Comment puis-je aider?[/b]
 A: Vous pouvez miner Expanse ou en acheter un peu sur les plateformes d'échange quand EXP y sera disponible. Vous pouvez également parler du projet autour de vous, partager activement vos opinions et vos votes sur les décisions clés, et même suggérer de possibles changements que vous trouvez importants pour le projet. Expanse est un projet entièrement à votre écoute et très inclusif, construisant une forte communauté par l'équité et la combinaison de talents et de visions de ceux qui veulent en être.
 
-
 [b] Q: Je suis développeur, comment puis-je contribuer au projet Expanse?[/b]
 A: Le potentiel de Expanse est énorme, mais les applications de sa puissance manquent. Ce dont nous avons besoin le plus sont des développeurs de DApps et Contrats. De telles contributions sont rétribuées; l'organisation Expanse récompensera par bounties les développeurs DApps et Contrats. Pour ceux désireux de contribuer au projet officiel, nous sommes actuellement en train de rédiger et publierons bientôt des documents guides pour la contribution des développeurs. Vous pouvez également participer directement sur le channel #dev du Slack Expanse.
-
 
 [b] Q: Y-a-t-il un ICO?[/b]
 A: Non, il n'y a aucune forme d'ICO ["Initial Coin Offering"] ou de financement participatif ["Crowdfunding"].
 
-
 [b] Q: Quelle est cette réserve? Pourquoi en existe-t-il une?[/b]
 A: La réserve est un fond financier géré par la communauté Expanse. Ces fonds de réserve sont directement gérés par la DAO en utilisant les contrats intelligents qui tournent sur Expanse. Les fonds de l'organisation sont verrouillés dans un contrat et sont progressivement rendus disponibles à l'organisation de manière équitable dans le temps. 10% de la réserve communautaire (1.1m exp) seront lentement distribués au noyau de la fondation pour couvrir les frais de développement à long terme, et seulement 10% de cette réserve seront disponibles au lancement pour aider à financer le développement initial et les bounties, alors que le reste de la réserve (90%, 9.9m exp) sera progressivement utilisé via des contrats intelligents comme déterminé par l'organisation Expanse dans son ensemble.
-
 
 [b] Q: Comment peut-on s'assurer que la réserve ne sera pas larguée sur le marché?[/b]
 A: La grande majorité de la réserve est contrôlée directement par l'entité Organisation Expanse Décentralisée, et est verrouillée par des contrats intelligents. Toute utilisation des fonds de l'organisation nécessite un vote majoritaire entre la communauté, les développeurs, et le conseil consultatif. Il serait impossible de vendre sans un accord mutuel. De surcroit, les fonds sont déverrouillés à l'organisation de manière répartie dans le temps.
@@ -164,7 +156,7 @@ A: La grande majorité de la réserve est contrôlée directement par l'entité 
 bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 gvm install go1.4
 gvm use go1.4 --default
-git clone -b develop http://www.github.com/expanse-project/go-expanse.git  
+git clone -b develop http://www.github.com/expanse-project/go-expanse.git  
 cd go-expanse
 make gexp[/code]
 
@@ -240,20 +232,20 @@ admin.addPeer("enode://25b8304b5a7977e5478057e5f60f3a7f0da32702f0e5d0174c84ab2a9
 [b]Official Genesis[/b]
 [code]
 {
-    "nonce": "0x214652414e4b4f21",
-    "timestamp": "0x0",
-    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "extraData": "0x4672616e6b6f497346726565646f6d",
-    "gasLimit": "0x1388",
-    "difficulty": "0x40000000",
-    "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "coinbase": "0x93decab0cd745598860f782ac1e8f046cb99e898",
-    "alloc": {
-        "0xbb94f0ceb32257275b2a7a9c094c13e469b4563e": { "balance": "10000000000000000000000000" },
-        "0x15656715068ab0dbdf0ab00748a8a19e40f28192": { "balance": "1000000000000000000000000"},
-    "0xc075fa11f85bda3aaba67106226aaf086ac16f4e": { "balance": "100000000000000000000000"},
-    "0x93decab0cd745598860f782ac1e8f046cb99e898": { "balance": "10000000000000000000000"}
-    }
+    "nonce": "0x214652414e4b4f21",
+    "timestamp": "0x0",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "extraData": "0x4672616e6b6f497346726565646f6d",
+    "gasLimit": "0x1388",
+    "difficulty": "0x40000000",
+    "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "coinbase": "0x93decab0cd745598860f782ac1e8f046cb99e898",
+    "alloc": {
+        "0xbb94f0ceb32257275b2a7a9c094c13e469b4563e": { "balance": "10000000000000000000000000" },
+        "0x15656715068ab0dbdf0ab00748a8a19e40f28192": { "balance": "1000000000000000000000000"},
+    "0xc075fa11f85bda3aaba67106226aaf086ac16f4e": { "balance": "100000000000000000000000"},
+    "0x93decab0cd745598860f782ac1e8f046cb99e898": { "balance": "10000000000000000000000"}
+    }
 }
 [/code]
 
